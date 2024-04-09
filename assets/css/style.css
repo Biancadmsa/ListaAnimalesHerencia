@@ -1,0 +1,21 @@
+form {
+    font-family: 'Tajawal', sans-serif;
+}
+
+p{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(51, 0, 255);
+   
+    
+}
+
+#resultado{
+    font-size: 19px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+}
+
+ul #listas{
+    margin-top: 15px;
+}
